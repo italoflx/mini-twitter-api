@@ -23,6 +23,6 @@ O projeto é uma API RESTful construída com Django e Django REST Framework, usa
 ```
 
 ## Links 
-[Download da documentação (Postman)](https://drive.google.com/file/d/1ZCG5o0VUDGAqk0NM8BnLtP0PU-rQAsoX/view?usp=sharing)
+[Documentação (Postman)](https://documenter.getpostman.com/view/39288021/2sAY4skQuv)
 
 [Download do DER](https://drive.google.com/file/d/1Y3szQii0QwvfbhHn3aivyE-QI4NNmzh8/view?usp=drive_link)
